@@ -1823,3 +1823,81 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.24-14.02.45:841][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 1.05 sec)
 [2024.05.24-14.02.45:842][633]AssetCheck: New page: 资产保存：MAT1
 [2024.05.24-14.02.45:842][633]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/MAT/MAT1.MAT1
+[2024.05.24-14.03.12:623][891]LogHttp: Warning: 00000956D6D36E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E8A48AA-47CE-140C-903E-BCA8AC597332%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=8debaa4a46f17582f35a818ecaee52bd%7C2ca8b96767ea4c6d9d761c723c0cde0b%7C6e661ead-c32a-4882-b544-625eb4d4a8aa&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.24-14.03.12:623][891]LogHttp: Warning: 00000956D6D36E00: request failed, libcurl error: 35 (SSL connect error)
+[2024.05.24-14.03.12:623][891]LogHttp: Warning: 00000956D6D36E00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2024.05.24-14.03.12:623][891]LogHttp: Warning: 00000956D6D36E00: libcurl info message cache 1 (  Trying 127.0.0.1:7890...)
+[2024.05.24-14.03.12:623][891]LogHttp: Warning: 00000956D6D36E00: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2024.05.24-14.03.12:623][891]LogHttp: Warning: 00000956D6D36E00: libcurl info message cache 3 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2024.05.24-14.03.12:623][891]LogHttp: Warning: 00000956D6D36E00: libcurl info message cache 4 (allocate connect buffer)
+[2024.05.24-14.03.12:623][891]LogHttp: Warning: 00000956D6D36E00: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.05.24-14.03.12:623][891]LogHttp: Warning: 00000956D6D36E00: libcurl info message cache 6 (CONNECT phase completed)
+[2024.05.24-14.03.12:623][891]LogHttp: Warning: 00000956D6D36E00: libcurl info message cache 7 (CONNECT tunnel established, response 200)
+[2024.05.24-14.03.12:623][891]LogHttp: Warning: 00000956D6D36E00: libcurl info message cache 8 (ALPN: curl offers http/1.1)
+[2024.05.24-14.03.12:623][891]LogHttp: Warning: 00000956D6D36E00: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.05.24-14.03.12:623][891]LogHttp: Warning: 00000956D6D36E00: libcurl info message cache 10 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.05.24-14.03.12:623][891]LogHttp: Warning: 00000956D6D36E00: libcurl info message cache 11 (Closing connection)
+[2024.05.24-14.03.12:623][891]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E8A48AA-47CE-140C-903E-BCA8AC597332%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=8debaa4a46f17582f35a818ecaee52bd%7C2ca8b96767ea4c6d9d761c723c0cde0b%7C6e661ead-c32a-4882-b544-625eb4d4a8aa&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.24-14.04.12:672][494]LogHttp: Warning: 00000956D6D3C300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E8A48AA-47CE-140C-903E-BCA8AC597332%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=8debaa4a46f17582f35a818ecaee52bd%7C2ca8b96767ea4c6d9d761c723c0cde0b%7C6e661ead-c32a-4882-b544-625eb4d4a8aa&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.24-14.04.12:672][494]LogHttp: Warning: 00000956D6D3C300: request failed, libcurl error: 35 (SSL connect error)
+[2024.05.24-14.04.12:672][494]LogHttp: Warning: 00000956D6D3C300: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2024.05.24-14.04.12:672][494]LogHttp: Warning: 00000956D6D3C300: libcurl info message cache 1 (  Trying 127.0.0.1:7890...)
+[2024.05.24-14.04.12:672][494]LogHttp: Warning: 00000956D6D3C300: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2024.05.24-14.04.12:672][494]LogHttp: Warning: 00000956D6D3C300: libcurl info message cache 3 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2024.05.24-14.04.12:672][494]LogHttp: Warning: 00000956D6D3C300: libcurl info message cache 4 (allocate connect buffer)
+[2024.05.24-14.04.12:672][494]LogHttp: Warning: 00000956D6D3C300: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.05.24-14.04.12:672][494]LogHttp: Warning: 00000956D6D3C300: libcurl info message cache 6 (CONNECT phase completed)
+[2024.05.24-14.04.12:672][494]LogHttp: Warning: 00000956D6D3C300: libcurl info message cache 7 (CONNECT tunnel established, response 200)
+[2024.05.24-14.04.12:673][494]LogHttp: Warning: 00000956D6D3C300: libcurl info message cache 8 (ALPN: curl offers http/1.1)
+[2024.05.24-14.04.12:673][494]LogHttp: Warning: 00000956D6D3C300: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.05.24-14.04.12:673][494]LogHttp: Warning: 00000956D6D3C300: libcurl info message cache 10 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.05.24-14.04.12:673][494]LogHttp: Warning: 00000956D6D3C300: libcurl info message cache 11 (Closing connection)
+[2024.05.24-14.04.12:673][494]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E8A48AA-47CE-140C-903E-BCA8AC597332%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=8debaa4a46f17582f35a818ecaee52bd%7C2ca8b96767ea4c6d9d761c723c0cde0b%7C6e661ead-c32a-4882-b544-625eb4d4a8aa&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.24-14.05.12:649][ 92]LogHttp: Warning: 00000956D6D32D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E8A48AA-47CE-140C-903E-BCA8AC597332%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=8debaa4a46f17582f35a818ecaee52bd%7C2ca8b96767ea4c6d9d761c723c0cde0b%7C6e661ead-c32a-4882-b544-625eb4d4a8aa&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.24-14.05.12:649][ 92]LogHttp: Warning: 00000956D6D32D00: request failed, libcurl error: 35 (SSL connect error)
+[2024.05.24-14.05.12:649][ 92]LogHttp: Warning: 00000956D6D32D00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2024.05.24-14.05.12:649][ 92]LogHttp: Warning: 00000956D6D32D00: libcurl info message cache 1 (  Trying 127.0.0.1:7890...)
+[2024.05.24-14.05.12:649][ 92]LogHttp: Warning: 00000956D6D32D00: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2024.05.24-14.05.12:649][ 92]LogHttp: Warning: 00000956D6D32D00: libcurl info message cache 3 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2024.05.24-14.05.12:649][ 92]LogHttp: Warning: 00000956D6D32D00: libcurl info message cache 4 (allocate connect buffer)
+[2024.05.24-14.05.12:649][ 92]LogHttp: Warning: 00000956D6D32D00: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.05.24-14.05.12:649][ 92]LogHttp: Warning: 00000956D6D32D00: libcurl info message cache 6 (CONNECT phase completed)
+[2024.05.24-14.05.12:649][ 92]LogHttp: Warning: 00000956D6D32D00: libcurl info message cache 7 (CONNECT tunnel established, response 200)
+[2024.05.24-14.05.12:649][ 92]LogHttp: Warning: 00000956D6D32D00: libcurl info message cache 8 (ALPN: curl offers http/1.1)
+[2024.05.24-14.05.12:649][ 92]LogHttp: Warning: 00000956D6D32D00: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.05.24-14.05.12:649][ 92]LogHttp: Warning: 00000956D6D32D00: libcurl info message cache 10 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.05.24-14.05.12:649][ 92]LogHttp: Warning: 00000956D6D32D00: libcurl info message cache 11 (Closing connection)
+[2024.05.24-14.05.12:649][ 92]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E8A48AA-47CE-140C-903E-BCA8AC597332%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=8debaa4a46f17582f35a818ecaee52bd%7C2ca8b96767ea4c6d9d761c723c0cde0b%7C6e661ead-c32a-4882-b544-625eb4d4a8aa&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: ================================================
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: Total job queries 1,201, among them cache hits 133 (11.07%)
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: Tracking 1,068 distinct input hashes that result in 632 distinct outputs (59.18%)
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: RAM used: 16.24 MiB of 1.60 GiB budget. Usage: 0.99%
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: Shaders Compiled: 842
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: Jobs assigned 842, completed 842 (100%)
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: Average time worker was idle: 48.89 s
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: Time job spent in pending queue: average 4.60 s, longest 11.48 s
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: Job execution time: average 2.07 s, max 6.15 s
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: Job life time (pending + execution): average 6.67 s, max 11.90
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: Shader code size: average 37.964 KiB, min 2.262 KiB, max 72.59 KiB
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.36 s
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: Jobs were issued in 164 batches (only local compilation was used), average 5.13 jobs/batch
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: Average processing rate: 48.50 jobs/sec
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: Total thread time: 186.045 s
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: Total thread preprocess time: 15.591 s
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: Percentage time preprocessing: 8.38%
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: Effective parallelization: 10.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display:                                TMaterialCHSTLightMapPolicyHQ (compiled    8 times, average 0.48 sec, max 0.63 sec, min 0.36 sec)
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display:                                TMaterialCHSTLightMapPolicyLQ (compiled    8 times, average 0.47 sec, max 0.59 sec, min 0.42 sec)
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display:         TMaterialCHSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    8 times, average 0.45 sec, max 0.64 sec, min 0.37 sec)
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled   13 times, average 0.45 sec, max 0.57 sec, min 0.37 sec)
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 4.18% of total time (compiled   20 times, average 0.39 sec, max 0.60 sec, min 0.29 sec)
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.03% of total time (compiled   33 times, average 0.23 sec, max 0.74 sec, min 0.12 sec)
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 3.45% of total time (compiled   23 times, average 0.28 sec, max 0.82 sec, min 0.19 sec)
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.39% of total time (compiled   23 times, average 0.27 sec, max 0.84 sec, min 0.17 sec)
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 3.37% of total time (compiled   23 times, average 0.27 sec, max 0.80 sec, min 0.18 sec)
+[2024.05.24-14.05.31:234][202]LogShaderCompilers: Display: ================================================
