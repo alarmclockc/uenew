@@ -1599,3 +1599,378 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2024.06.05-06.55.44:173][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 693 ms)
 [2024.06.05-06.55.44:173][237]AssetCheck: New page: 资产保存：first
 [2024.06.05-06.55.44:173][237]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Map/first.first
+[2024.06.05-06.58.37:893][122]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-06.58.37:893][122]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-06.58.37:893][122]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_243
+[2024.06.05-06.58.38:369][150]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-06.58.38:369][150]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-06.58.38:370][150]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_247
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: ================================================
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: Total job queries 292, among them cache hits 49 (16.78%)
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: Tracking 238 distinct input hashes that result in 196 distinct outputs (82.35%)
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: RAM used: 7.29 MiB of 819.20 MiB budget. Usage: 0.89%
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: Shaders Compiled: 97
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: Jobs assigned 102, completed 97 (95.10%)
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: Average time worker was idle: 513.57 s
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.11 s
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: Job execution time: average 9.10 s, max 9.66 s
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: Job life time (pending + execution): average 9.10 s, max 9.66
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: Shader code size: average 63.819 KiB, min 4.477 KiB, max 86.191 KiB
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.02 s
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 6.38 jobs/batch
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: Average processing rate: 9.68 jobs/sec
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: Total thread time: 86.458 s
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: Total thread preprocess time: 2.182 s
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: Percentage time preprocessing: 2.52%
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: Effective parallelization: 8.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled   96 times, average 0.90 sec, max 1.26 sec, min 0.69 sec)
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.10 sec, max 0.10 sec, min 0.10 sec)
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display:                                             FDeferredLightPS - 99.88% of total time (compiled   96 times, average 0.90 sec, max 1.26 sec, min 0.69 sec)
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display:                                                  FHitProxyPS - 0.12% of total time (compiled    1 times, average 0.10 sec, max 0.10 sec, min 0.10 sec)
+[2024.06.05-06.58.39:055][186]LogShaderCompilers: Display: ================================================
+[2024.06.05-06.58.39:335][202]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2024.06.05-06.58.39:338][203]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2024.06.05-06.58.39:380][203]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2024.06.05-06.58.39:382][203]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2024.06.05-06.58.39:479][208]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2024.06.05-06.58.39:483][208]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2024.06.05-06.59.06:144][356]Cmd: TRANSACTION UNDO
+[2024.06.05-06.59.06:144][356]LogEditorTransaction: Undo 移动元素
+[2024.06.05-06.59.07:192][408]Cmd: DELETE
+[2024.06.05-06.59.07:192][408]Cmd: ACTOR DELETE
+[2024.06.05-06.59.07:197][408]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.59.07:201][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.05-06.59.07:202][408]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.06.05-06.59.09:509][544]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033
+[2024.06.05-06.59.09:509][544]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033
+[2024.06.05-06.59.09:510][544]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_252
+[2024.06.05-06.59.10:380][595]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033
+[2024.06.05-06.59.10:380][595]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033
+[2024.06.05-06.59.10:381][595]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_255
+[2024.06.05-06.59.16:400][936]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032
+[2024.06.05-06.59.16:400][936]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032
+[2024.06.05-06.59.16:400][936]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_257
+[2024.06.05-06.59.16:728][955]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032
+[2024.06.05-06.59.16:728][955]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032
+[2024.06.05-06.59.16:729][955]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_259
+[2024.06.05-06.59.27:968][600]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033
+[2024.06.05-06.59.27:968][600]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033
+[2024.06.05-06.59.27:968][600]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_261
+[2024.06.05-06.59.28:446][628]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033
+[2024.06.05-06.59.28:446][628]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033
+[2024.06.05-06.59.28:447][628]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_262
+[2024.06.05-06.59.32:951][887]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.05-06.59.32:951][887]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.05-06.59.32:951][887]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_263
+[2024.06.05-06.59.34:562][983]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.05-06.59.34:562][983]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.05-06.59.34:563][983]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_264
+[2024.06.05-06.59.35:605][ 39]Cmd: DELETE
+[2024.06.05-06.59.35:605][ 39]Cmd: ACTOR DELETE
+[2024.06.05-06.59.35:610][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.59.35:614][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.06.05-06.59.35:615][ 39]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.06.05-06.59.46:272][663]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-06.59.46:272][663]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-06.59.46:273][663]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_265
+[2024.06.05-06.59.47:364][728]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-06.59.47:364][728]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-06.59.47:365][728]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_266
+[2024.06.05-06.59.51:827][986]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-06.59.51:827][986]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-06.59.51:828][986]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_267
+[2024.06.05-06.59.52:342][ 16]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-06.59.52:342][ 16]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-06.59.52:343][ 16]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_268
+[2024.06.05-07.00.07:723][904]Cmd: DELETE
+[2024.06.05-07.00.07:723][904]Cmd: ACTOR DELETE
+[2024.06.05-07.00.07:728][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-07.00.07:731][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.06.05-07.00.07:733][904]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.06.05-07.00.15:130][333]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-07.00.15:130][333]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-07.00.15:131][333]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_269
+[2024.06.05-07.00.16:042][387]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-07.00.16:042][387]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-07.00.16:043][387]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_270
+[2024.06.05-07.00.21:775][720]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-07.00.21:775][720]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-07.00.21:775][720]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_273
+[2024.06.05-07.00.23:235][807]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-07.00.23:236][807]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-07.00.23:236][807]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_274
+[2024.06.05-07.02.14:552][424]Cmd: DELETE
+[2024.06.05-07.02.14:552][424]Cmd: ACTOR DELETE
+[2024.06.05-07.02.14:557][424]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-07.02.14:562][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.06.05-07.02.14:563][424]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.06.05-07.02.36:990][754]Cmd: DUPLICATE
+[2024.06.05-07.02.36:990][754]Cmd: ACTOR DUPLICATE
+[2024.06.05-07.03.00:458][ 90]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_034.stones_立方体_034
+[2024.06.05-07.03.00:458][ 90]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_034.stones_立方体_034
+[2024.06.05-07.03.00:459][ 90]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_034.stones_立方体_034 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_276
+[2024.06.05-07.03.01:233][135]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_034.stones_立方体_034
+[2024.06.05-07.03.01:233][135]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_034.stones_立方体_034
+[2024.06.05-07.03.01:234][135]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_034.stones_立方体_034 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_284
+[2024.06.05-07.03.22:742][357]Cmd: DUPLICATE
+[2024.06.05-07.03.22:742][357]Cmd: ACTOR DUPLICATE
+[2024.06.05-07.04.45:803][ 83]Cmd: DUPLICATE
+[2024.06.05-07.04.45:803][ 83]Cmd: ACTOR DUPLICATE
+[2024.06.05-07.04.55:110][630]Cmd: DUPLICATE
+[2024.06.05-07.04.55:110][630]Cmd: ACTOR DUPLICATE
+[2024.06.05-07.05.11:490][566]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.05-07.05.11:490][566]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.05-07.05.11:491][566]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_295
+[2024.06.05-07.05.12:635][634]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.05-07.05.12:635][634]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.05-07.05.12:636][634]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_296
+[2024.06.05-07.06.04:478][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.06.05-07.06.04:480][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/first" FILE="D:/uenew/我的项目2/Saved/Autosaves/Game/Map/first_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.06.05-07.06.04:552][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/first_Auto1
+[2024.06.05-07.06.04:552][698]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/first_Auto1E8D576774A0C09D75389488111ECADE3.tmp' to 'D:/uenew/我的项目2/Saved/Autosaves/Game/Map/first_Auto1.umap'
+[2024.06.05-07.06.04:553][698]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/uenew/我的项目2/Saved/Autosaves/Game/Map/first_Auto1.umap is in the /Temp path, will not scan.
+[2024.06.05-07.06.04:553][698]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/first' took 0.079
+[2024.06.05-07.06.04:554][698]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.079
+[2024.06.05-07.06.04:554][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAT/Matt/grass-solo-Color] ([1] browsable assets)...
+[2024.06.05-07.06.04:556][698]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MAT/Matt/grass-solo-Color.grass-solo-Color]
+[2024.06.05-07.06.04:556][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAT/Matt/grass-solo-Color]
+[2024.06.05-07.06.04:556][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAT/Matt/grass-solo-Color" FILE="D:/uenew/我的项目2/Saved/Autosaves/Game/MAT/Matt/grass-solo-Color_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.06.05-07.06.05:056][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MAT/Matt/grass-solo-Color_Auto1
+[2024.06.05-07.06.05:056][698]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/grass-solo-Color_Auto19915AC68421B5262A49B849311753D88.tmp' to 'D:/uenew/我的项目2/Saved/Autosaves/Game/MAT/Matt/grass-solo-Color_Auto1.uasset'
+[2024.06.05-07.06.05:058][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/Stone/stones_立方体_037] ([1] browsable assets)...
+[2024.06.05-07.06.05:066][698]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FBX/Stone/stones_立方体_037.stones_立方体_037]
+[2024.06.05-07.06.05:066][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/Stone/stones_立方体_037]
+[2024.06.05-07.06.05:066][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Stone/stones_立方体_037" FILE="D:/uenew/我的项目2/Saved/Autosaves/Game/FBX/Stone/stones_立方体_037_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.06.05-07.06.05:069][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/Stone/stones_立方体_037_Auto1
+[2024.06.05-07.06.05:069][698]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/stones_立方体_037_Auto1A8D25A5D4B98B900DA85FE98398360B3.tmp' to 'D:/uenew/我的项目2/Saved/Autosaves/Game/FBX/Stone/stones_立方体_037_Auto1.uasset'
+[2024.06.05-07.06.05:070][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/Stone/stones_立方体_029] ([1] browsable assets)...
+[2024.06.05-07.06.05:076][698]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029]
+[2024.06.05-07.06.05:076][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/Stone/stones_立方体_029]
+[2024.06.05-07.06.05:076][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Stone/stones_立方体_029" FILE="D:/uenew/我的项目2/Saved/Autosaves/Game/FBX/Stone/stones_立方体_029_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.06.05-07.06.05:078][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/Stone/stones_立方体_029_Auto1
+[2024.06.05-07.06.05:078][698]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/stones_立方体_029_Auto1780292F0419B3FE53B0F65B76601CC59.tmp' to 'D:/uenew/我的项目2/Saved/Autosaves/Game/FBX/Stone/stones_立方体_029_Auto1.uasset'
+[2024.06.05-07.06.05:079][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/Stone/stones_立方体_030] ([1] browsable assets)...
+[2024.06.05-07.06.05:086][698]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030]
+[2024.06.05-07.06.05:086][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/Stone/stones_立方体_030]
+[2024.06.05-07.06.05:086][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Stone/stones_立方体_030" FILE="D:/uenew/我的项目2/Saved/Autosaves/Game/FBX/Stone/stones_立方体_030_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.06.05-07.06.05:089][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/Stone/stones_立方体_030_Auto1
+[2024.06.05-07.06.05:089][698]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/stones_立方体_030_Auto1DB87823042164B70DB6A62B3E46C0E37.tmp' to 'D:/uenew/我的项目2/Saved/Autosaves/Game/FBX/Stone/stones_立方体_030_Auto1.uasset'
+[2024.06.05-07.06.05:090][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/Stone/stones_立方体_031] ([1] browsable assets)...
+[2024.06.05-07.06.05:095][698]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031]
+[2024.06.05-07.06.05:095][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/Stone/stones_立方体_031]
+[2024.06.05-07.06.05:095][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Stone/stones_立方体_031" FILE="D:/uenew/我的项目2/Saved/Autosaves/Game/FBX/Stone/stones_立方体_031_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.06.05-07.06.05:098][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/Stone/stones_立方体_031_Auto1
+[2024.06.05-07.06.05:098][698]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/stones_立方体_031_Auto1E28DDABD432B7BEA2711A19017BE6474.tmp' to 'D:/uenew/我的项目2/Saved/Autosaves/Game/FBX/Stone/stones_立方体_031_Auto1.uasset'
+[2024.06.05-07.06.05:099][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/Stone/stones_立方体_032] ([1] browsable assets)...
+[2024.06.05-07.06.05:106][698]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032]
+[2024.06.05-07.06.05:106][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/Stone/stones_立方体_032]
+[2024.06.05-07.06.05:106][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Stone/stones_立方体_032" FILE="D:/uenew/我的项目2/Saved/Autosaves/Game/FBX/Stone/stones_立方体_032_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.06.05-07.06.05:109][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/Stone/stones_立方体_032_Auto1
+[2024.06.05-07.06.05:109][698]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/stones_立方体_032_Auto11307BF214648E7908E8CCE8B3646D610.tmp' to 'D:/uenew/我的项目2/Saved/Autosaves/Game/FBX/Stone/stones_立方体_032_Auto1.uasset'
+[2024.06.05-07.06.05:109][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/Stone/stones_立方体_033] ([1] browsable assets)...
+[2024.06.05-07.06.05:115][698]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033]
+[2024.06.05-07.06.05:115][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/Stone/stones_立方体_033]
+[2024.06.05-07.06.05:115][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Stone/stones_立方体_033" FILE="D:/uenew/我的项目2/Saved/Autosaves/Game/FBX/Stone/stones_立方体_033_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.06.05-07.06.05:118][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/Stone/stones_立方体_033_Auto1
+[2024.06.05-07.06.05:118][698]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/stones_立方体_033_Auto13470556C4C2DDB229B243DBEB93F5F09.tmp' to 'D:/uenew/我的项目2/Saved/Autosaves/Game/FBX/Stone/stones_立方体_033_Auto1.uasset'
+[2024.06.05-07.06.05:118][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/Stone/stones_立方体_034] ([1] browsable assets)...
+[2024.06.05-07.06.05:125][698]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FBX/Stone/stones_立方体_034.stones_立方体_034]
+[2024.06.05-07.06.05:126][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/Stone/stones_立方体_034]
+[2024.06.05-07.06.05:126][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Stone/stones_立方体_034" FILE="D:/uenew/我的项目2/Saved/Autosaves/Game/FBX/Stone/stones_立方体_034_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.06.05-07.06.05:128][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/Stone/stones_立方体_034_Auto1
+[2024.06.05-07.06.05:128][698]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/stones_立方体_034_Auto14965ED014DFB5E4F32E951A363C416C5.tmp' to 'D:/uenew/我的项目2/Saved/Autosaves/Game/FBX/Stone/stones_立方体_034_Auto1.uasset'
+[2024.06.05-07.06.05:129][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/Stone/stones_立方体_035] ([1] browsable assets)...
+[2024.06.05-07.06.05:134][698]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FBX/Stone/stones_立方体_035.stones_立方体_035]
+[2024.06.05-07.06.05:134][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/Stone/stones_立方体_035]
+[2024.06.05-07.06.05:134][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Stone/stones_立方体_035" FILE="D:/uenew/我的项目2/Saved/Autosaves/Game/FBX/Stone/stones_立方体_035_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.06.05-07.06.05:137][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/Stone/stones_立方体_035_Auto1
+[2024.06.05-07.06.05:137][698]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/stones_立方体_035_Auto18DB637B640C9E0B4BE29EF90C7A4D7A9.tmp' to 'D:/uenew/我的项目2/Saved/Autosaves/Game/FBX/Stone/stones_立方体_035_Auto1.uasset'
+[2024.06.05-07.06.05:138][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FBX/Stone/stones_立方体_036] ([1] browsable assets)...
+[2024.06.05-07.06.05:146][698]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FBX/Stone/stones_立方体_036.stones_立方体_036]
+[2024.06.05-07.06.05:146][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/FBX/Stone/stones_立方体_036]
+[2024.06.05-07.06.05:146][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Stone/stones_立方体_036" FILE="D:/uenew/我的项目2/Saved/Autosaves/Game/FBX/Stone/stones_立方体_036_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.06.05-07.06.05:148][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FBX/Stone/stones_立方体_036_Auto1
+[2024.06.05-07.06.05:148][698]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/stones_立方体_036_Auto11680E23E41A12CDD41FD49B75B371F2E.tmp' to 'D:/uenew/我的项目2/Saved/Autosaves/Game/FBX/Stone/stones_立方体_036_Auto1.uasset'
+[2024.06.05-07.06.05:150][698]LogFileHelpers: Auto-saving content packages took 0.596
+[2024.06.05-07.08.53:521][777]Cmd: DUPLICATE
+[2024.06.05-07.08.53:521][777]Cmd: ACTOR DUPLICATE
+[2024.06.05-07.08.53:521][777]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2024.06.05-07.09.15:472][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-07.09.15:472][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-07.09.15:472][ 17]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_298
+[2024.06.05-07.09.16:101][ 54]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-07.09.16:101][ 54]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-07.09.16:102][ 54]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_299
+[2024.06.05-07.09.28:084][736]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-07.09.28:084][736]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-07.09.28:084][736]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_300
+[2024.06.05-07.09.29:797][838]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-07.09.29:797][838]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-07.09.29:798][838]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_301
+[2024.06.05-07.10.36:538][706]Cmd: DUPLICATE
+[2024.06.05-07.10.36:538][706]Cmd: ACTOR DUPLICATE
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC78A77DF-4C81-4FF6-40F1-16883DB5A1D7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c06fdf4244f5286b874e06b15961197c%7Cdcdc71fa27854e949f887302ec03c334%7Cbb4d7989-9f0d-4996-9ccf-129a5ded44bf&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 0 (Found bundle for host: 0x9ace1160330 [serially])
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 1 (Re-using existing connection with proxy 127.0.0.1)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 4 (state.rewindbeforesend = TRUE)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 5 (Closing connection)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 6 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 7 (Recv failure: Connection was aborted)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC78A77DF-4C81-4FF6-40F1-16883DB5A1D7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c06fdf4244f5286b874e06b15961197c%7Cdcdc71fa27854e949f887302ec03c334%7Cbb4d7989-9f0d-4996-9ccf-129a5ded44bf&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 9 (  Trying 127.0.0.1:7890...)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 10 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 11 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 12 (allocate connect buffer)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 13 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 14 (CONNECT phase completed)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 15 (CONNECT tunnel established, response 200)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 16 (ALPN: curl offers http/1.1)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 17 (SSL reusing session ID)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 18 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 22 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 23 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 24 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 25 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 26 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 27 (ALPN: server accepted http/1.1)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 28 (Server certificate:)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 29 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 30 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 31 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 32 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 33 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 34 ( SSL certificate verify ok.)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 35 (using HTTP/1.1)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 36 (necessary data rewind wasn't possible)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 37 (Closing connection)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: 000009ACF3C19600: libcurl info message cache 38 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.06.05-07.12.11:949][294]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC78A77DF-4C81-4FF6-40F1-16883DB5A1D7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c06fdf4244f5286b874e06b15961197c%7Cdcdc71fa27854e949f887302ec03c334%7Cbb4d7989-9f0d-4996-9ccf-129a5ded44bf&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.05-07.12.15:402][485]Cmd: DELETE
+[2024.06.05-07.12.15:402][485]Cmd: ACTOR DELETE
+[2024.06.05-07.12.15:407][485]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-07.12.15:413][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.06.05-07.12.15:414][485]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.06.05-07.12.16:076][519]Cmd: DELETE
+[2024.06.05-07.12.16:076][519]Cmd: ACTOR DELETE
+[2024.06.05-07.12.16:080][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-07.12.16:084][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.06.05-07.12.16:085][519]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.06.05-07.12.16:679][551]Cmd: DELETE
+[2024.06.05-07.12.16:680][551]Cmd: ACTOR DELETE
+[2024.06.05-07.12.16:684][551]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-07.12.16:688][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.06.05-07.12.16:690][551]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.06.05-07.12.23:086][898]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.05-07.12.23:086][898]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.05-07.12.23:086][898]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_303
+[2024.06.05-07.12.23:901][946]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.05-07.12.23:901][946]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.05-07.12.23:902][946]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_304
+[2024.06.05-07.13.50:194][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032
+[2024.06.05-07.13.50:194][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032
+[2024.06.05-07.13.50:195][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_305
+[2024.06.05-07.13.50:921][114]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032
+[2024.06.05-07.13.50:921][114]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032
+[2024.06.05-07.13.50:922][114]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_306
+[2024.06.05-07.14.11:175][302]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032
+[2024.06.05-07.14.11:175][302]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032
+[2024.06.05-07.14.11:175][302]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_307
+[2024.06.05-07.14.11:769][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032
+[2024.06.05-07.14.11:769][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032
+[2024.06.05-07.14.11:770][337]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_308
+[2024.06.05-07.14.24:733][ 69]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-07.14.24:733][ 69]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-07.14.24:733][ 69]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_309
+[2024.06.05-07.14.25:927][140]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-07.14.25:927][140]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-07.14.25:928][140]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_310
+[2024.06.05-07.14.48:700][472]Cmd: DELETE
+[2024.06.05-07.14.48:701][472]Cmd: ACTOR DELETE
+[2024.06.05-07.14.48:705][472]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-07.14.48:710][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.06.05-07.14.48:711][472]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.06.05-07.16.08:387][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.06.05-07.16.08:389][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/first" FILE="D:/uenew/我的项目2/Saved/Autosaves/Game/Map/first_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.06.05-07.16.08:460][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/first_Auto2
+[2024.06.05-07.16.08:460][239]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/first_Auto26F02C4474AF6851FD38A949A834386AC.tmp' to 'D:/uenew/我的项目2/Saved/Autosaves/Game/Map/first_Auto2.umap'
+[2024.06.05-07.16.08:461][239]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/uenew/我的项目2/Saved/Autosaves/Game/Map/first_Auto2.umap is in the /Temp path, will not scan.
+[2024.06.05-07.16.08:461][239]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/first' took 0.079
+[2024.06.05-07.16.08:461][239]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.079
+[2024.06.05-07.17.14:204][164]Cmd: DUPLICATE
+[2024.06.05-07.17.14:204][164]Cmd: ACTOR DUPLICATE
+[2024.06.05-07.17.20:569][525]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-07.17.20:569][525]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-07.17.20:570][525]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_312
+[2024.06.05-07.17.21:580][585]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-07.17.21:580][585]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-07.17.21:582][585]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_313
+[2024.06.05-07.17.56:625][373]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_036.stones_立方体_036
+[2024.06.05-07.17.56:625][373]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_036.stones_立方体_036
+[2024.06.05-07.17.56:626][373]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_036.stones_立方体_036 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_314
+[2024.06.05-07.17.57:140][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_036.stones_立方体_036
+[2024.06.05-07.17.57:140][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_036.stones_立方体_036
+[2024.06.05-07.17.57:142][403]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_036.stones_立方体_036 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_315
+[2024.06.05-07.18.46:714][231]Cmd: DELETE
+[2024.06.05-07.18.46:714][231]Cmd: ACTOR DELETE
+[2024.06.05-07.18.46:719][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-07.18.46:726][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.06.05-07.18.46:727][231]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.06.05-07.18.51:709][518]Cmd: DUPLICATE
+[2024.06.05-07.18.51:709][518]Cmd: ACTOR DUPLICATE
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: 000009ACFC926400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC78A77DF-4C81-4FF6-40F1-16883DB5A1D7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c06fdf4244f5286b874e06b15961197c%7Cdcdc71fa27854e949f887302ec03c334%7Cbb4d7989-9f0d-4996-9ccf-129a5ded44bf&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: 000009ACFC926400: request failed, libcurl error: 35 (SSL connect error)
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: 000009ACFC926400: libcurl info message cache 0 (Connection 15 seems to be dead)
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: 000009ACFC926400: libcurl info message cache 1 (Closing connection)
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: 000009ACFC926400: libcurl info message cache 2 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: 000009ACFC926400: libcurl info message cache 3 (Recv failure: Connection was aborted)
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: 000009ACFC926400: libcurl info message cache 4 (  Trying 127.0.0.1:7890...)
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: 000009ACFC926400: libcurl info message cache 5 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: 000009ACFC926400: libcurl info message cache 6 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: 000009ACFC926400: libcurl info message cache 7 (allocate connect buffer)
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: 000009ACFC926400: libcurl info message cache 8 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: 000009ACFC926400: libcurl info message cache 9 (CONNECT phase completed)
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: 000009ACFC926400: libcurl info message cache 10 (CONNECT tunnel established, response 200)
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: 000009ACFC926400: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: 000009ACFC926400: libcurl info message cache 12 (SSL reusing session ID)
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: 000009ACFC926400: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: 000009ACFC926400: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: 000009ACFC926400: libcurl info message cache 15 (Closing connection)
+[2024.06.05-07.21.12:190][936]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC78A77DF-4C81-4FF6-40F1-16883DB5A1D7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c06fdf4244f5286b874e06b15961197c%7Cdcdc71fa27854e949f887302ec03c334%7Cbb4d7989-9f0d-4996-9ccf-129a5ded44bf&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.05-07.24.14:066][823]Cmd: DUPLICATE
+[2024.06.05-07.24.14:066][823]Cmd: ACTOR DUPLICATE
+[2024.06.05-07.24.25:845][506]Cmd: DUPLICATE
+[2024.06.05-07.24.25:845][506]Cmd: ACTOR DUPLICATE
+[2024.06.05-07.25.33:509][525]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-07.25.33:510][525]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-07.25.33:510][525]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_319
+[2024.06.05-07.25.34:256][569]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-07.25.34:256][569]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-07.25.34:257][569]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_320
+[2024.06.05-07.26.08:667][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.06.05-07.26.08:667][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/first" FILE="D:/uenew/我的项目2/Saved/Autosaves/Game/Map/first_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.06.05-07.26.08:743][597]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/first_Auto3
+[2024.06.05-07.26.08:744][597]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/first_Auto31D6E13864D1C4C7D892A2AB9B666688F.tmp' to 'D:/uenew/我的项目2/Saved/Autosaves/Game/Map/first_Auto3.umap'
+[2024.06.05-07.26.08:745][597]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/uenew/我的项目2/Saved/Autosaves/Game/Map/first_Auto3.umap is in the /Temp path, will not scan.
+[2024.06.05-07.26.08:745][597]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/first' took 0.084
+[2024.06.05-07.26.08:745][597]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2024.06.05-07.27.40:492][ 86]Cmd: DUPLICATE
+[2024.06.05-07.27.40:493][ 86]Cmd: ACTOR DUPLICATE
+[2024.06.05-07.27.46:017][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-07.27.46:048][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/first" FILE="D:/uenew/我的项目2/Content/Map/first.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.05-07.27.46:093][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.06.05-07.27.46:170][401]LogSavePackage: Moving output files for package: /Game/Map/first
+[2024.06.05-07.27.46:171][401]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/firstB4C6696A45A49DFC1964FE9373A69493.tmp' to 'D:/uenew/我的项目2/Content/Map/first.umap'
+[2024.06.05-07.27.46:180][401]LogFileHelpers: Saving map 'first' took 0.133
+[2024.06.05-07.27.46:190][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 865 ms)
+[2024.06.05-07.27.46:193][401]AssetCheck: New page: 资产保存：first
+[2024.06.05-07.27.46:193][401]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Map/first.first
