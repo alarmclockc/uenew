@@ -1611,3 +1611,138 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.06.05-02.44.34:018][677]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 2.40 sec)
 [2024.06.05-02.44.34:021][677]AssetCheck: New page: 资产保存：first
 [2024.06.05-02.44.34:021][677]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Map/first.first
+[2024.06.05-02.45.16:288][372]LogShaderCompilers: Display: ================================================
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: Total job queries 544, among them cache hits 20 (3.68%)
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: Tracking 189 distinct input hashes that result in 167 distinct outputs (88.36%)
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: RAM used: 6.08 MiB of 819.20 MiB budget. Usage: 0.74%
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: Shaders Compiled: 138
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: Jobs assigned 204, completed 138 (67.65%)
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: Average time worker was idle: 102.20 s
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 2.79 s
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: Job execution time: average 6.95 s, max 9.67 s
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: Job life time (pending + execution): average 6.99 s, max 9.70
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: Shader code size: average 57.571 KiB, min 3.324 KiB, max 86.191 KiB
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.20 s
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: Jobs were issued in 36 batches (only local compilation was used), average 5.61 jobs/batch
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: Average processing rate: 9.72 jobs/sec
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: Total thread time: 97.177 s
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: Total thread preprocess time: 3.376 s
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: Percentage time preprocessing: 3.47%
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: Effective parallelization: 6.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled   96 times, average 0.90 sec, max 1.26 sec, min 0.64 sec)
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.52 sec, max 0.56 sec, min 0.48 sec)
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 0.42 sec, max 0.51 sec, min 0.33 sec)
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    3 times, average 0.31 sec, max 0.34 sec, min 0.26 sec)
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    5 times, average 0.30 sec, max 0.31 sec, min 0.28 sec)
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display:                                             FDeferredLightPS - 88.53% of total time (compiled   96 times, average 0.90 sec, max 1.26 sec, min 0.64 sec)
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 1.61% of total time (compiled    3 times, average 0.52 sec, max 0.56 sec, min 0.48 sec)
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 1.52% of total time (compiled    5 times, average 0.30 sec, max 0.31 sec, min 0.28 sec)
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 1.44% of total time (compiled    5 times, average 0.28 sec, max 0.31 sec, min 0.23 sec)
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display:                                             FDebugViewModePS - 1.33% of total time (compiled    5 times, average 0.26 sec, max 0.32 sec, min 0.23 sec)
+[2024.06.05-02.45.16:289][372]LogShaderCompilers: Display: ================================================
+[2024.06.05-02.45.21:279][598]Cmd: TRANSACTION UNDO
+[2024.06.05-02.45.21:279][598]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.45.47:987][981]Cmd: TRANSACTION UNDO
+[2024.06.05-02.45.47:987][981]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.45.47:990][981]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_1 （BGRA8, 256x256 x1x1x1）（预计所需内存：1.97916 MB），编码速度：Fast
+[2024.06.05-02.45.47:990][981]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 256x256 x1x1x1）（预计所需内存：2.062492 MB），编码速度：Fast
+[2024.06.05-02.46.17:591][580]Cmd: TRANSACTION UNDO
+[2024.06.05-02.46.17:591][580]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.46.17:593][580]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_1 （BGRA8, 256x256 x1x1x1）（预计所需内存：1.97916 MB），编码速度：Fast
+[2024.06.05-02.46.17:594][580]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 256x256 x1x1x1）（预计所需内存：2.062492 MB），编码速度：Fast
+[2024.06.05-02.47.15:417][580]Cmd: TRANSACTION UNDO
+[2024.06.05-02.47.15:417][580]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.47.15:420][580]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_1 （BGRA8, 256x256 x1x1x1）（预计所需内存：1.97916 MB），编码速度：Fast
+[2024.06.05-02.47.15:422][580]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 256x256 x1x1x1）（预计所需内存：2.062492 MB），编码速度：Fast
+[2024.06.05-02.50.00:947][341]Cmd: TRANSACTION UNDO
+[2024.06.05-02.50.00:947][341]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.50.00:950][341]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_1 （BGRA8, 256x256 x1x1x1）（预计所需内存：1.97916 MB），编码速度：Fast
+[2024.06.05-02.50.00:951][341]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 256x256 x1x1x1）（预计所需内存：2.062492 MB），编码速度：Fast
+[2024.06.05-02.50.02:034][391]Cmd: TRANSACTION UNDO
+[2024.06.05-02.50.02:034][391]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.50.05:466][590]Cmd: TRANSACTION UNDO
+[2024.06.05-02.50.05:466][590]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.50.25:299][635]Cmd: TRANSACTION UNDO
+[2024.06.05-02.50.25:299][635]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.50.25:302][635]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_1 （BGRA8, 256x256 x1x1x1）（预计所需内存：1.97916 MB），编码速度：Fast
+[2024.06.05-02.50.25:302][635]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 256x256 x1x1x1）（预计所需内存：2.062492 MB），编码速度：Fast
+[2024.06.05-02.51.45:436][301]Cmd: TRANSACTION UNDO
+[2024.06.05-02.51.45:437][301]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.51.45:439][301]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_1 （BGRA8, 256x256 x1x1x1）（预计所需内存：1.97916 MB），编码速度：Fast
+[2024.06.05-02.51.45:440][301]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 256x256 x1x1x1）（预计所需内存：2.062492 MB），编码速度：Fast
+[2024.06.05-02.51.46:743][363]Cmd: TRANSACTION UNDO
+[2024.06.05-02.51.46:743][363]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.51.49:858][525]Cmd: TRANSACTION UNDO
+[2024.06.05-02.51.49:858][525]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.51.49:860][525]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_1 （BGRA8, 256x256 x1x1x1）（预计所需内存：1.97916 MB），编码速度：Fast
+[2024.06.05-02.51.49:861][525]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 256x256 x1x1x1）（预计所需内存：2.062492 MB），编码速度：Fast
+[2024.06.05-02.51.52:588][669]Cmd: TRANSACTION UNDO
+[2024.06.05-02.51.52:588][669]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.51.52:590][669]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_1 （BGRA8, 256x256 x1x1x1）（预计所需内存：1.97916 MB），编码速度：Fast
+[2024.06.05-02.51.52:591][669]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 256x256 x1x1x1）（预计所需内存：2.062492 MB），编码速度：Fast
+[2024.06.05-02.51.53:893][742]Cmd: TRANSACTION UNDO
+[2024.06.05-02.51.53:893][742]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.51.58:110][960]Cmd: TRANSACTION UNDO
+[2024.06.05-02.51.58:110][960]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.51.58:113][960]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_1 （BGRA8, 256x256 x1x1x1）（预计所需内存：1.97916 MB），编码速度：Fast
+[2024.06.05-02.51.58:114][960]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 256x256 x1x1x1）（预计所需内存：2.062492 MB），编码速度：Fast
+[2024.06.05-02.52.08:867][550]Cmd: TRANSACTION UNDO
+[2024.06.05-02.52.08:867][550]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.52.08:870][550]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_1 （BGRA8, 256x256 x1x1x1）（预计所需内存：1.97916 MB），编码速度：Fast
+[2024.06.05-02.52.08:870][550]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 256x256 x1x1x1）（预计所需内存：2.062492 MB），编码速度：Fast
+[2024.06.05-02.52.18:450][  0]Cmd: TRANSACTION UNDO
+[2024.06.05-02.52.18:450][  0]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.52.18:453][  0]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_1 （BGRA8, 256x256 x1x1x1）（预计所需内存：1.97916 MB），编码速度：Fast
+[2024.06.05-02.52.18:453][  0]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 256x256 x1x1x1）（预计所需内存：2.062492 MB），编码速度：Fast
+[2024.06.05-02.53.49:727][428]Cmd: TRANSACTION UNDO
+[2024.06.05-02.53.49:728][428]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.53.49:730][428]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_1 （BGRA8, 256x256 x1x1x1）（预计所需内存：1.97916 MB），编码速度：Fast
+[2024.06.05-02.53.49:731][428]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 256x256 x1x1x1）（预计所需内存：2.062492 MB），编码速度：Fast
+[2024.06.05-02.54.02:074][ 48]Cmd: TRANSACTION UNDO
+[2024.06.05-02.54.02:074][ 48]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.54.02:077][ 48]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_1 （BGRA8, 256x256 x1x1x1）（预计所需内存：1.97916 MB），编码速度：Fast
+[2024.06.05-02.54.02:078][ 48]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 256x256 x1x1x1）（预计所需内存：2.062492 MB），编码速度：Fast
+[2024.06.05-02.54.09:973][425]Cmd: TRANSACTION UNDO
+[2024.06.05-02.54.09:973][425]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.54.09:976][425]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_1 （BGRA8, 256x256 x1x1x1）（预计所需内存：1.97916 MB），编码速度：Fast
+[2024.06.05-02.54.09:977][425]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 256x256 x1x1x1）（预计所需内存：2.062492 MB），编码速度：Fast
+[2024.06.05-02.55.01:181][210]Cmd: TRANSACTION UNDO
+[2024.06.05-02.55.01:181][210]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.55.01:183][210]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_1 （BGRA8, 256x256 x1x1x1）（预计所需内存：1.97916 MB），编码速度：Fast
+[2024.06.05-02.55.01:184][210]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 256x256 x1x1x1）（预计所需内存：2.062492 MB），编码速度：Fast
+[2024.06.05-02.55.05:937][474]Cmd: TRANSACTION UNDO
+[2024.06.05-02.55.05:937][474]LogEditorTransaction: Undo 地形编辑：平整
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: 000007F38614E600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2FC1843C-4FCF-C140-ECB0-B59F1ACF30EA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c06fdf4244f5286b874e06b15961197c%7Cdcdc71fa27854e949f887302ec03c334%7Cbb4d7989-9f0d-4996-9ccf-129a5ded44bf&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: 000007F38614E600: request failed, libcurl error: 35 (SSL connect error)
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: 000007F38614E600: libcurl info message cache 0 (Connection 6 seems to be dead)
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: 000007F38614E600: libcurl info message cache 1 (Closing connection)
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: 000007F38614E600: libcurl info message cache 2 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: 000007F38614E600: libcurl info message cache 3 (Recv failure: Connection was aborted)
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: 000007F38614E600: libcurl info message cache 4 (  Trying 127.0.0.1:7890...)
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: 000007F38614E600: libcurl info message cache 5 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: 000007F38614E600: libcurl info message cache 6 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: 000007F38614E600: libcurl info message cache 7 (allocate connect buffer)
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: 000007F38614E600: libcurl info message cache 8 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: 000007F38614E600: libcurl info message cache 9 (CONNECT phase completed)
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: 000007F38614E600: libcurl info message cache 10 (CONNECT tunnel established, response 200)
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: 000007F38614E600: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: 000007F38614E600: libcurl info message cache 12 (SSL reusing session ID)
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: 000007F38614E600: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: 000007F38614E600: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: 000007F38614E600: libcurl info message cache 15 (Closing connection)
+[2024.06.05-02.55.32:776][885]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2FC1843C-4FCF-C140-ECB0-B59F1ACF30EA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c06fdf4244f5286b874e06b15961197c%7Cdcdc71fa27854e949f887302ec03c334%7Cbb4d7989-9f0d-4996-9ccf-129a5ded44bf&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.05-02.56.07:045][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-02.56.07:079][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/first" FILE="D:/uenew/我的项目2/Content/Map/first.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.05-02.56.07:126][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.06.05-02.56.07:130][795]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 256x256 x1x1x1）（预计所需内存：2.062492 MB），编码速度：Fast
+[2024.06.05-02.56.07:133][795]LogTexture: Display: 正在构建纹理：/Game/Map/first.first:PersistentLevel.Landscape_0.Heightmap_1 （BGRA8, 256x256 x1x1x1）（预计所需内存：1.97916 MB），编码速度：Fast
+[2024.06.05-02.56.07:207][795]LogSavePackage: Moving output files for package: /Game/Map/first
+[2024.06.05-02.56.07:208][795]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/firstB683175341A43711945DC4B558742903.tmp' to 'D:/uenew/我的项目2/Content/Map/first.umap'
+[2024.06.05-02.56.07:215][795]LogFileHelpers: Saving map 'first' took 0.136
+[2024.06.05-02.56.07:228][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 2.59 sec)
+[2024.06.05-02.56.07:230][795]AssetCheck: New page: 资产保存：first
+[2024.06.05-02.56.07:230][795]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Map/first.first
