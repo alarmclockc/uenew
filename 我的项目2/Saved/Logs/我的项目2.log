@@ -1556,3 +1556,12 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.06.05-07.59.33:635][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 498 ms)
 [2024.06.05-07.59.33:637][274]AssetCheck: New page: 资产保存：first
 [2024.06.05-07.59.33:637][274]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Map/first.first
+[2024.06.05-07.59.54:786][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-07.59.54:812][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/first" FILE="D:/uenew/我的项目2/Content/Map/first.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.05-07.59.54:857][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.06.05-07.59.54:933][437]LogSavePackage: Moving output files for package: /Game/Map/first
+[2024.06.05-07.59.54:934][437]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/firstB64668F046BCF0D53FDA76BB0C40F0B5.tmp' to 'D:/uenew/我的项目2/Content/Map/first.umap'
+[2024.06.05-07.59.54:940][437]LogFileHelpers: Saving map 'first' took 0.128
+[2024.06.05-07.59.54:959][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 671 ms)
+[2024.06.05-07.59.54:962][437]AssetCheck: New page: 资产保存：first
+[2024.06.05-07.59.54:962][437]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Map/first.first
