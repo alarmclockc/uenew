@@ -1448,3 +1448,154 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2024.06.05-06.53.08:817][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 541 ms)
 [2024.06.05-06.53.08:818][467]AssetCheck: New page: 资产保存：first
 [2024.06.05-06.53.08:820][467]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Map/first.first
+[2024.06.05-06.53.23:602][976]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032
+[2024.06.05-06.53.23:603][976]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032
+[2024.06.05-06.53.23:604][976]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_0
+[2024.06.05-06.53.24:592][ 34]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032
+[2024.06.05-06.53.24:592][ 34]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032
+[2024.06.05-06.53.24:593][ 34]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_032.stones_立方体_032 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_6
+[2024.06.05-06.53.35:638][672]LogStaticMesh: Display: 正在构建静态网格体stones_立方体_032……
+[2024.06.05-06.53.35:642][672]LogStaticMesh: Built static mesh [0.00s] /Game/FBX/Stone/stones_立方体_032.stones_立方体_032
+[2024.06.05-06.53.38:205][822]Cmd: DELETE
+[2024.06.05-06.53.38:205][822]Cmd: ACTOR DELETE
+[2024.06.05-06.53.38:210][822]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.53.38:213][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.06.05-06.53.38:214][822]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.06.05-06.53.40:439][952]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033
+[2024.06.05-06.53.40:439][952]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033
+[2024.06.05-06.53.40:439][952]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_8
+[2024.06.05-06.53.40:677][966]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033
+[2024.06.05-06.53.40:677][966]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033
+[2024.06.05-06.53.40:678][966]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_033.stones_立方体_033 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_10
+[2024.06.05-06.53.43:001][100]LogEditorViewport: Clicking Background
+[2024.06.05-06.53.43:309][117]LogStaticMesh: Display: 正在构建静态网格体stones_立方体_033……
+[2024.06.05-06.53.43:311][117]LogStaticMesh: Built static mesh [0.00s] /Game/FBX/Stone/stones_立方体_033.stones_立方体_033
+[2024.06.05-06.53.44:804][203]Cmd: DELETE
+[2024.06.05-06.53.44:804][203]Cmd: ACTOR DELETE
+[2024.06.05-06.53.44:808][203]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.53.44:814][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.06.05-06.53.44:815][203]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.06.05-06.53.45:991][271]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_034.stones_立方体_034
+[2024.06.05-06.53.45:991][271]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_034.stones_立方体_034
+[2024.06.05-06.53.45:991][271]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_034.stones_立方体_034 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_12
+[2024.06.05-06.53.46:178][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_034.stones_立方体_034
+[2024.06.05-06.53.46:178][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_034.stones_立方体_034
+[2024.06.05-06.53.46:179][282]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_034.stones_立方体_034 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_21
+[2024.06.05-06.53.49:671][486]LogStaticMesh: Display: 正在构建静态网格体stones_立方体_034……
+[2024.06.05-06.53.49:675][486]LogStaticMesh: Built static mesh [0.00s] /Game/FBX/Stone/stones_立方体_034.stones_立方体_034
+[2024.06.05-06.53.50:501][534]Cmd: DELETE
+[2024.06.05-06.53.50:501][534]Cmd: ACTOR DELETE
+[2024.06.05-06.53.50:504][534]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.53.50:508][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.06.05-06.53.50:510][534]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.06.05-06.53.52:007][621]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_035.stones_立方体_035
+[2024.06.05-06.53.52:007][621]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_035.stones_立方体_035
+[2024.06.05-06.53.52:007][621]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_035.stones_立方体_035 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_25
+[2024.06.05-06.53.52:177][631]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_035.stones_立方体_035
+[2024.06.05-06.53.52:177][631]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_035.stones_立方体_035
+[2024.06.05-06.53.52:178][631]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_035.stones_立方体_035 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_32
+[2024.06.05-06.53.55:015][797]LogStaticMesh: Display: 正在构建静态网格体stones_立方体_035……
+[2024.06.05-06.53.55:017][797]LogStaticMesh: Built static mesh [0.00s] /Game/FBX/Stone/stones_立方体_035.stones_立方体_035
+[2024.06.05-06.53.55:846][845]Cmd: DELETE
+[2024.06.05-06.53.55:846][845]Cmd: ACTOR DELETE
+[2024.06.05-06.53.55:851][845]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.53.55:855][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.05-06.53.55:856][845]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.06.05-06.55.09:685][261]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_035.stones_立方体_035
+[2024.06.05-06.55.09:685][261]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_035.stones_立方体_035
+[2024.06.05-06.55.09:686][261]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_035.stones_立方体_035 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_138
+[2024.06.05-06.55.09:854][271]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_035.stones_立方体_035
+[2024.06.05-06.55.09:854][271]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_035.stones_立方体_035
+[2024.06.05-06.55.09:855][271]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_035.stones_立方体_035 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_157
+[2024.06.05-06.55.10:779][321]Cmd: DELETE
+[2024.06.05-06.55.10:779][321]Cmd: ACTOR DELETE
+[2024.06.05-06.55.10:785][321]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.55.10:789][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.06.05-06.55.10:791][321]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.06.05-06.55.11:456][359]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_036.stones_立方体_036
+[2024.06.05-06.55.11:457][359]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_036.stones_立方体_036
+[2024.06.05-06.55.11:457][359]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_036.stones_立方体_036 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_179
+[2024.06.05-06.55.11:611][368]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_036.stones_立方体_036
+[2024.06.05-06.55.11:611][368]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_036.stones_立方体_036
+[2024.06.05-06.55.11:612][368]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_036.stones_立方体_036 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_182
+[2024.06.05-06.55.14:485][533]LogStaticMesh: Display: 正在构建静态网格体stones_立方体_036……
+[2024.06.05-06.55.14:488][533]LogStaticMesh: Built static mesh [0.00s] /Game/FBX/Stone/stones_立方体_036.stones_立方体_036
+[2024.06.05-06.55.15:649][599]Cmd: DELETE
+[2024.06.05-06.55.15:649][599]Cmd: ACTOR DELETE
+[2024.06.05-06.55.15:652][599]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.55.15:656][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.06.05-06.55.15:657][599]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.06.05-06.55.16:611][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_037.stones_立方体_037
+[2024.06.05-06.55.16:611][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_037.stones_立方体_037
+[2024.06.05-06.55.16:612][651]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_037.stones_立方体_037 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_184
+[2024.06.05-06.55.16:786][661]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_037.stones_立方体_037
+[2024.06.05-06.55.16:786][661]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_037.stones_立方体_037
+[2024.06.05-06.55.16:787][661]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_037.stones_立方体_037 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_187
+[2024.06.05-06.55.18:668][769]LogStaticMesh: Display: 正在构建静态网格体stones_立方体_037……
+[2024.06.05-06.55.18:670][769]LogStaticMesh: Built static mesh [0.00s] /Game/FBX/Stone/stones_立方体_037.stones_立方体_037
+[2024.06.05-06.55.19:258][803]Cmd: DELETE
+[2024.06.05-06.55.19:258][803]Cmd: ACTOR DELETE
+[2024.06.05-06.55.19:264][803]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.55.19:267][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.05-06.55.19:269][803]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.06.05-06.55.20:414][869]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_037.stones_立方体_037
+[2024.06.05-06.55.20:414][869]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_037.stones_立方体_037
+[2024.06.05-06.55.20:414][869]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_037.stones_立方体_037 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_191
+[2024.06.05-06.55.20:502][874]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_037.stones_立方体_037
+[2024.06.05-06.55.20:502][874]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_037.stones_立方体_037
+[2024.06.05-06.55.20:503][874]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_037.stones_立方体_037 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_198
+[2024.06.05-06.55.23:075][ 23]LogStaticMesh: Display: 正在构建静态网格体stones_立方体_037……
+[2024.06.05-06.55.23:078][ 23]LogStaticMesh: Built static mesh [0.00s] /Game/FBX/Stone/stones_立方体_037.stones_立方体_037
+[2024.06.05-06.55.23:723][ 60]Cmd: DELETE
+[2024.06.05-06.55.23:723][ 60]Cmd: ACTOR DELETE
+[2024.06.05-06.55.23:727][ 60]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.55.23:731][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.06.05-06.55.23:732][ 60]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.06.05-06.55.24:950][130]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-06.55.24:950][130]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-06.55.24:950][130]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_206
+[2024.06.05-06.55.25:153][142]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-06.55.25:153][142]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-06.55.25:154][142]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_214
+[2024.06.05-06.55.29:559][402]LogStaticMesh: Display: 正在构建静态网格体stones_立方体_029……
+[2024.06.05-06.55.29:563][402]LogStaticMesh: Built static mesh [0.00s] /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.05-06.55.30:188][436]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.05-06.55.30:188][436]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.05-06.55.30:189][436]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_220
+[2024.06.05-06.55.30:377][447]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.05-06.55.30:377][447]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.05-06.55.30:378][447]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_226
+[2024.06.05-06.55.32:525][571]LogStaticMesh: Display: 正在构建静态网格体stones_立方体_030……
+[2024.06.05-06.55.32:528][571]LogStaticMesh: Built static mesh [0.00s] /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.05-06.55.33:283][615]Cmd: DELETE
+[2024.06.05-06.55.33:283][615]Cmd: ACTOR DELETE
+[2024.06.05-06.55.33:287][615]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.55.33:292][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.05-06.55.33:293][615]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.06.05-06.55.34:432][680]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-06.55.34:432][680]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-06.55.34:432][680]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_235
+[2024.06.05-06.55.34:774][700]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-06.55.34:774][700]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-06.55.34:775][700]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_239
+[2024.06.05-06.55.36:512][798]Cmd: DELETE
+[2024.06.05-06.55.36:513][798]Cmd: ACTOR DELETE
+[2024.06.05-06.55.36:517][798]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.55.36:520][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.05-06.55.36:521][798]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.06.05-06.55.39:731][985]LogStaticMesh: Display: 正在构建静态网格体stones_立方体_031……
+[2024.06.05-06.55.39:734][985]LogStaticMesh: Built static mesh [0.00s] /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.05-06.55.40:476][ 28]Cmd: DELETE
+[2024.06.05-06.55.40:476][ 28]Cmd: ACTOR DELETE
+[2024.06.05-06.55.40:480][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.55.40:484][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.06.05-06.55.40:485][ 28]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.06.05-06.55.44:022][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-06.55.44:049][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/first" FILE="D:/uenew/我的项目2/Content/Map/first.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.05-06.55.44:091][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.06.05-06.55.44:159][237]LogSavePackage: Moving output files for package: /Game/Map/first
+[2024.06.05-06.55.44:159][237]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/firstBA8F961F401026E92E8AC4A4A97F28AD.tmp' to 'D:/uenew/我的项目2/Content/Map/first.umap'
+[2024.06.05-06.55.44:166][237]LogFileHelpers: Saving map 'first' took 0.117
+[2024.06.05-06.55.44:173][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 693 ms)
+[2024.06.05-06.55.44:173][237]AssetCheck: New page: 资产保存：first
+[2024.06.05-06.55.44:173][237]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Map/first.first
