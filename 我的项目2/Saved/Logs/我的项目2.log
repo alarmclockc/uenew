@@ -1408,3 +1408,4 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2024.06.05-06.51.57:560][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 384 ms)
 [2024.06.05-06.51.57:562][266]AssetCheck: New page: 资产保存：first
 [2024.06.05-06.51.57:562][266]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Map/first.first
+[2024.06.05-06.52.13:203][418]LogDerivedDataCache: C:/Users/毕谢斯娜/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.253 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10180 files in 11718 folders with total size 507 MiB.
