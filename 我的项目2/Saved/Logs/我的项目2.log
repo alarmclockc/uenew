@@ -1409,3 +1409,42 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2024.06.05-06.51.57:562][266]AssetCheck: New page: 资产保存：first
 [2024.06.05-06.51.57:562][266]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Map/first.first
 [2024.06.05-06.52.13:203][418]LogDerivedDataCache: C:/Users/毕谢斯娜/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.253 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10180 files in 11718 folders with total size 507 MiB.
+[2024.06.05-06.52.58:918][916]Cmd: DELETE
+[2024.06.05-06.52.58:918][916]Cmd: ACTOR DELETE
+[2024.06.05-06.52.58:923][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.52.58:925][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.06.05-06.52.58:927][916]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2024.06.05-06.52.59:699][957]Cmd: DELETE
+[2024.06.05-06.52.59:699][957]Cmd: ACTOR DELETE
+[2024.06.05-06.52.59:703][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.52.59:705][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.06.05-06.52.59:707][957]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2024.06.05-06.53.01:817][ 78]Cmd: DELETE
+[2024.06.05-06.53.01:818][ 78]Cmd: ACTOR DELETE
+[2024.06.05-06.53.01:822][ 78]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.53.01:825][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.05-06.53.01:826][ 78]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2024.06.05-06.53.03:058][148]Cmd: DELETE
+[2024.06.05-06.53.03:058][148]Cmd: ACTOR DELETE
+[2024.06.05-06.53.03:063][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.53.03:066][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.06.05-06.53.03:067][148]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.06.05-06.53.03:985][199]Cmd: DELETE
+[2024.06.05-06.53.03:985][199]Cmd: ACTOR DELETE
+[2024.06.05-06.53.03:989][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.53.03:991][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.06.05-06.53.03:993][199]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.06.05-06.53.04:544][228]Cmd: DELETE
+[2024.06.05-06.53.04:544][228]Cmd: ACTOR DELETE
+[2024.06.05-06.53.04:549][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-06.53.04:551][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.05-06.53.04:553][228]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.06.05-06.53.08:660][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-06.53.08:692][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/first" FILE="D:/uenew/我的项目2/Content/Map/first.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.05-06.53.08:735][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.05-06.53.08:803][467]LogSavePackage: Moving output files for package: /Game/Map/first
+[2024.06.05-06.53.08:804][467]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/first25C0E31C4C3CB0AA0A8F16AF2E6BDF43.tmp' to 'D:/uenew/我的项目2/Content/Map/first.umap'
+[2024.06.05-06.53.08:810][467]LogFileHelpers: Saving map 'first' took 0.118
+[2024.06.05-06.53.08:817][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 541 ms)
+[2024.06.05-06.53.08:818][467]AssetCheck: New page: 资产保存：first
+[2024.06.05-06.53.08:820][467]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Map/first.first
