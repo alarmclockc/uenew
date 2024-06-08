@@ -3892,3 +3892,181 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.08-09.19.11:140][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 378 ms)
 [2024.06.08-09.19.11:143][235]AssetCheck: New page: 资产保存：first
 [2024.06.08-09.19.11:143][235]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Map/first.first
+[2024.06.08-09.20.21:277][767]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.20.21:277][767]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.20.21:278][767]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_930
+[2024.06.08-09.20.22:197][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.20.22:197][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.20.22:199][822]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_931
+[2024.06.08-09.20.30:820][324]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.20.30:820][324]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.20.30:820][324]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_932
+[2024.06.08-09.20.31:594][370]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.20.31:594][370]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.20.31:595][370]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_933
+[2024.06.08-09.20.47:137][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.20.47:137][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.20.47:137][281]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_934
+[2024.06.08-09.20.47:980][331]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.20.47:980][331]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.20.47:982][331]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_935
+[2024.06.08-09.21.01:492][124]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.21.01:492][124]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.21.01:493][124]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_936
+[2024.06.08-09.21.02:518][185]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.21.02:518][185]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.21.02:520][185]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_937
+[2024.06.08-09.21.03:167][221]Cmd: DELETE
+[2024.06.08-09.21.03:167][221]Cmd: ACTOR DELETE
+[2024.06.08-09.21.03:175][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.08-09.21.03:196][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.06.08-09.21.03:198][221]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2024.06.08-09.21.04:191][278]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.21.04:191][278]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.21.04:192][278]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_938
+[2024.06.08-09.21.04:563][300]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.21.04:563][300]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.21.04:565][300]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_939
+[2024.06.08-09.23.48:289][  3]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.23.48:289][  3]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.23.48:290][  3]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_940
+[2024.06.08-09.23.49:029][ 47]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.23.49:030][ 47]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.23.49:031][ 47]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_941
+[2024.06.08-09.24.13:517][440]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.24.13:517][440]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.24.13:517][440]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_942
+[2024.06.08-09.24.13:974][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.24.13:974][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.24.13:976][467]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_943
+[2024.06.08-09.24.18:898][746]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.24.18:898][746]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.24.18:898][746]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_944
+[2024.06.08-09.24.19:439][778]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.24.19:439][778]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.24.19:440][778]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_945
+[2024.06.08-09.24.32:418][537]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.24.32:418][537]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.24.32:418][537]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_946
+[2024.06.08-09.24.32:911][566]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.24.32:911][566]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.24.32:912][566]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_947
+[2024.06.08-09.26.27:596][312]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.26.27:597][312]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.26.27:598][312]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_948
+[2024.06.08-09.26.28:104][342]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.26.28:104][342]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.26.28:106][342]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_949
+[2024.06.08-09.26.45:935][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.26.45:935][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.26.45:936][393]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_950
+[2024.06.08-09.26.46:126][404]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.26.46:126][404]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.26.46:127][404]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_951
+[2024.06.08-09.27.00:377][213]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.27.00:377][213]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.27.00:378][213]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_952
+[2024.06.08-09.27.01:098][256]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.27.01:098][256]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.27.01:101][256]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_953
+[2024.06.08-09.27.18:219][245]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.27.18:219][245]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.27.18:220][245]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_954
+[2024.06.08-09.27.18:678][272]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.27.18:678][272]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.27.18:680][272]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_955
+[2024.06.08-09.27.37:845][335]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.27.37:845][335]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.27.37:846][335]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_956
+[2024.06.08-09.27.39:620][441]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.27.39:620][441]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.27.39:621][441]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_957
+[2024.06.08-09.27.43:705][662]Cmd: DELETE
+[2024.06.08-09.27.43:705][662]Cmd: ACTOR DELETE
+[2024.06.08-09.27.43:713][662]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.08-09.27.43:737][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.06.08-09.27.43:740][662]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2024.06.08-09.28.05:757][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.28.05:757][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.28.05:757][910]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_958
+[2024.06.08-09.28.06:331][944]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.28.06:331][944]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.28.06:332][944]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_959
+[2024.06.08-09.28.38:128][807]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.28.38:128][807]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.28.38:129][807]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_960
+[2024.06.08-09.28.39:038][861]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.28.39:038][861]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.28.39:039][861]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_961
+[2024.06.08-09.28.47:930][330]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.28.47:930][330]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.28.47:931][330]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_962
+[2024.06.08-09.28.49:035][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.28.49:035][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.28.49:036][395]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_963
+[2024.06.08-09.29.09:210][548]LogEditorViewport: Clicking Background
+[2024.06.08-09.29.44:637][660]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.29.44:637][660]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.29.44:637][660]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_964
+[2024.06.08-09.29.45:244][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.29.45:244][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.29.45:246][696]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_965
+[2024.06.08-09.30.17:884][618]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.30.17:884][618]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.30.17:884][618]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_966
+[2024.06.08-09.30.18:625][662]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.30.18:625][662]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.30.18:627][662]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_967
+[2024.06.08-09.30.29:044][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.06.08-09.30.29:045][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/first" FILE="D:/uenew/我的项目2/Saved/Autosaves/Game/Map/first_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.06.08-09.30.29:152][257]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/first_Auto4
+[2024.06.08-09.30.29:152][257]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/first_Auto4FFBF86844584AAFC1257F4B1F1691D9C.tmp' to 'D:/uenew/我的项目2/Saved/Autosaves/Game/Map/first_Auto4.umap'
+[2024.06.08-09.30.29:153][257]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/uenew/我的项目2/Saved/Autosaves/Game/Map/first_Auto4.umap is in the /Temp path, will not scan.
+[2024.06.08-09.30.29:153][257]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/first' took 0.133
+[2024.06.08-09.30.29:153][257]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.133
+[2024.06.08-09.30.29:361][267]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.30.29:361][267]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.30.29:361][267]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_968
+[2024.06.08-09.30.29:852][296]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.30.29:852][296]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.30.29:853][296]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_969
+[2024.06.08-09.30.40:738][920]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.30.40:739][920]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.30.40:739][920]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_970
+[2024.06.08-09.30.41:261][951]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.30.41:262][951]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.30.41:263][951]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_971
+[2024.06.08-09.30.52:655][611]LogEditorViewport: Clicking Background
+[2024.06.08-09.30.56:645][840]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.30.56:646][840]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.30.56:646][840]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_972
+[2024.06.08-09.30.57:817][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.30.57:817][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.30.57:819][910]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_973
+[2024.06.08-09.31.03:214][222]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.31.03:214][222]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.31.03:215][222]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_974
+[2024.06.08-09.31.05:155][338]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.31.05:155][338]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029
+[2024.06.08-09.31.05:157][338]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_029.stones_立方体_029 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_975
+[2024.06.08-09.31.17:380][ 50]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.31.17:380][ 50]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.31.17:380][ 50]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_976
+[2024.06.08-09.31.19:503][177]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.31.19:503][177]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031
+[2024.06.08-09.31.19:505][177]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_031.stones_立方体_031 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_977
+[2024.06.08-09.31.24:030][433]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.31.24:030][433]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.31.24:031][433]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_978
+[2024.06.08-09.31.24:922][486]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.31.24:922][486]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030
+[2024.06.08-09.31.24:923][486]LogActorFactory: Actor Factory spawned StaticMesh /Game/FBX/Stone/stones_立方体_030.stones_立方体_030 as actor: StaticMeshActor /Game/Map/first.first:PersistentLevel.StaticMeshActor_979
+[2024.06.08-09.31.51:908][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.08-09.31.51:939][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/first" FILE="D:/uenew/我的项目2/Content/Map/first.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.08-09.31.51:984][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.06.08-09.31.52:093][ 78]LogSavePackage: Moving output files for package: /Game/Map/first
+[2024.06.08-09.31.52:094][ 78]LogSavePackage: Moving 'D:/uenew/我的项目2/Saved/firstC7EEA0724E1C21C04CA07BA9E8D2F288.tmp' to 'D:/uenew/我的项目2/Content/Map/first.umap'
+[2024.06.08-09.31.52:102][ 78]LogFileHelpers: Saving map 'first' took 0.164
+[2024.06.08-09.31.52:111][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 202 ms (total: 581 ms)
+[2024.06.08-09.31.52:111][ 78]AssetCheck: New page: 资产保存：first
+[2024.06.08-09.31.52:112][ 78]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Map/first.first
